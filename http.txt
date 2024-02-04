@@ -1,0 +1,22 @@
+# HTTP Class Summary
+
+The HTTP class covered the basics of the Hypertext Transfer Protocol:
+
+1. **What is HTTP:**
+   - Explanation of HTTP as a protocol for transmitting hypertext.
+
+2. **HTTP Methods:**
+   - Overview of common methods like GET and POST for data retrieval and submission.
+
+3. **Status Codes:**
+   - Understanding HTTP status codes indicating the outcome of a request.
+
+4. **Headers and Body:**
+   - The structure of HTTP requests and responses, including headers and body.
+
+5. **Cookies:**
+   - Introduction to cookies and their role in web applications.
+
+This class equipped us with essential knowledge for understanding web communication.
+
+

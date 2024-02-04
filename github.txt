@@ -1,0 +1,22 @@
+# GitHub Class Summary
+
+The GitHub class covered the basics of collaborating with GitHub:
+
+1. **Introduction to GitHub:**
+   - Overview of GitHub as a platform for hosting Git repositories.
+
+2. **Creating Repositories:**
+   - Steps for creating repositories on GitHub.
+
+3. **Pull Requests:**
+   - Understanding pull requests for proposing and discussing changes.
+
+4. **Issues and Projects:**
+   - Using GitHub issues and project boards for effective project management.
+
+5. **Collaboration Features:**
+   - Exploring features like branching, merging, and code reviews.
+
+This class equipped us with the skills needed to collaborate efficiently using GitHub.
+
+

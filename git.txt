@@ -1,0 +1,22 @@
+# Git Class Summary
+
+In the Git class, we covered the basics of version control with Git:
+
+1. **What is Git:**
+   - Introduction to Git as a distributed version control system.
+
+2. **Repositories:**
+   - Understanding repositories, branches, and commits.
+
+3. **Basic Commands:**
+   - Commands like `git init`, `git add`, `git commit` for managing code changes.
+
+4. **Branching and Merging:**
+   - Explanation of branching strategies and merging changes.
+
+5. **Remote Repositories:**
+   - Working with remote repositories, pushing, and pulling changes.
+
+This class provided foundational knowledge for effective collaboration using Git.
+
+

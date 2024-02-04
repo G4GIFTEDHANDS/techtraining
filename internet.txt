@@ -1,0 +1,22 @@
+# Internet Class Summary
+
+In the internet-related class, we covered fundamental concepts:
+
+1. **Introduction to the Internet:**
+   - Overview of the global network connecting computers and devices.
+
+2. **Basic Internet Protocols:**
+   - Understanding protocols like TCP/IP that enable communication.
+
+3. **Web Browsers:**
+   - How web browsers work and their role in accessing information.
+
+4. **Domain Names and IP Addresses:**
+   - Explanation of domain names, DNS, and IP addressing.
+
+5. **Internet Security Basics:**
+   - Brief overview of common security measures and concerns.
+
+This class provided a foundational understanding of how the internet functions.
+
+
